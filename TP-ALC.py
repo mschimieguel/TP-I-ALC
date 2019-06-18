@@ -30,4 +30,4 @@ X = ((b-a)/2)*(EigenValues + 1) + a
 exec(function)
 #print (Fx)
 In = ((b-a)/2)*(W @ Fx) 
-print (4*In)
+print (In)
